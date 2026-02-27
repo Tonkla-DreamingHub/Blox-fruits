@@ -43,10 +43,5 @@ local Button = Tab:CreateButton({
    -- The function that takes place when the button is pressed
    end,
 })
-
-
-
-
-
 getgenv().user_key = '72f0db6ea25c8f2aaaa324ecccb12eb0'
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/QuartyzScript/main/OneClick/BF.lua"))()
